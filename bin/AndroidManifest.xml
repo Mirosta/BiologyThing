@@ -22,9 +22,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
-        <activity android:name="SpeciesAdder"/>
-=======
         <activity
             android:name="com.specieshack.biologything.AddActivity"
             android:label="@string/title_activity_add"
@@ -73,7 +70,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.specieshack.biologything.ManageProjectActivity" />
         </activity>
->>>>>>> origin/Mirosta
     </application>
 
 </manifest>
