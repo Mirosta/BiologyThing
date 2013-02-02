@@ -2,4 +2,4 @@
 bin/
 gen/
 *.log
-.idea/
+.idea/*
