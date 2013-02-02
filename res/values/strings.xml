@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">BiologyThing</string>
+    <string name="app_name">SpeciesCount: Extreme</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="title_activity_add">Add...</string>
+    <string name="title_activity_manage_project">Project</string>
+    <string name="title_activity_project_list">ProjectListActivity</string>
+    <string name="title_activity_add_species">Add</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_species_list">Species</string>
 
 </resources>
