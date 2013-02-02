@@ -1,10 +1,16 @@
+<<<<<<< HEAD
 <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/TableLayout1"
+=======
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+>>>>>>> 335f953704df9818fe51af16aba2b0be3cb60a61
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity" >
 
+<<<<<<< HEAD
     <TableRow
         android:id="@+id/tableRow1"
         android:layout_width="wrap_content"
@@ -17,21 +23,21 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.25"
-        android:text="Add..." />
+        android:text="New Project" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.25"
-        android:text="Map" />
+        android:text="Open Project" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.25"
-        android:text="Things" />
+        android:text="FAQs" />
 
     <TableRow
         android:id="@+id/tableRow2"
@@ -42,3 +48,13 @@
     </TableRow>
 
 </TableLayout>
+=======
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/hello_world" />
+
+</RelativeLayout>
+>>>>>>> 335f953704df9818fe51af16aba2b0be3cb60a61
