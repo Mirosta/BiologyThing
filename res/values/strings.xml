@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <string name="app_name">SpeciesCount: Extreme</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
@@ -10,5 +11,10 @@
     <string name="title_activity_add_species">Add</string>
     <string name="title_activity_map">Map</string>
     <string name="title_activity_species_list">Species</string>
+=======
+    <string name="app_name">BiologyThing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+>>>>>>> 335f953704df9818fe51af16aba2b0be3cb60a61
 
 </resources>

@@ -19,4 +19,8 @@ public class MainActivity extends Activity {
 		return true;
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 335f953704df9818fe51af16aba2b0be3cb60a61

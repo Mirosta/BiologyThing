@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <activity android:name="SpeciesAdder"/>
 =======
         <activity
@@ -74,6 +75,10 @@
                 android:value="com.specieshack.biologything.ManageProjectActivity" />
         </activity>
 >>>>>>> origin/Mirosta
+=======
+        <activity android:name="SpeciesAdder"/>
+        <activity android:name=".ViewSpecies"/>
+>>>>>>> 335f953704df9818fe51af16aba2b0be3cb60a61
     </application>
 
 </manifest>
