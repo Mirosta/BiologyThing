@@ -17,21 +17,21 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.25"
-        android:text="Add..." />
+        android:text="New Project" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.25"
-        android:text="Map" />
+        android:text="Open Project" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.25"
-        android:text="Things" />
+        android:text="FAQs" />
 
     <TableRow
         android:id="@+id/tableRow2"
